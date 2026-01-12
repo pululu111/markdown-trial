@@ -3,6 +3,7 @@
 + 专业：2023级药学 
 + 联系方式：fanyx23@m.fudan.edu.cn
 [GitHub链接](igem.org)
+
 ![logo](https://upload-bbs.miyoushe.com/upload/2024/01/15/301105314/0a286e492f18865dfc718d49501b56bc_8049512769524565949.gif)
 ---
 <h3 style="color: #29B7F0;">教育背景</h3>
